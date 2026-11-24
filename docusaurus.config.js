@@ -29,7 +29,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'dalilaliberato07', // Usually your GitHub org/user name.
   projectName: 'STI-2026-dokku', // Usually your repo name.
-  trailingSlash: false
+  trailingSlash: false,
   onBrokenLinks: 'throw',
 
   // Even if you don't use internationalization, you can use this field to set
